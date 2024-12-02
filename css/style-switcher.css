@@ -1,0 +1,46 @@
+.style-switcher{
+    position: fixed;
+    right: 0;
+    top: 60px;
+    color: white;
+    padding: 15px;  
+}
+
+.style-switcher .colors span{
+    display: block;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-left: 20%;
+}
+
+.style-switcher h4{
+    color: var(--skin-color);
+}
+
+.style-switcher .color-1{
+    background: #ec1839;
+    margin: 3px;
+}
+
+.style-switcher .color-2{
+    background: #d141ef;
+    margin: 3px;
+}
+
+.style-switcher .color-3{
+    background: #00abf0;
+    margin: 3px;
+}
+
+.style-switcher .color-4{
+    background:#fa5b0f;
+    margin: 3px;
+}
+
+.style-switcher .color-5{
+    background: #37b182;
+    margin: 3px;
+}
+
